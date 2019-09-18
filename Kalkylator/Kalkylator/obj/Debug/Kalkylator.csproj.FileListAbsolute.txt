@@ -1,0 +1,10 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\bin\Debug\Kalkylator.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csprojAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.Form1.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.GenerateResource.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\Kalkylator\Kalkylator\obj\Debug\Kalkylator.pdb
